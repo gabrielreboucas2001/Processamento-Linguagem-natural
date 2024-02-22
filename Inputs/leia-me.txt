@@ -1,0 +1,4 @@
+Sites usado durante á aula:
+
+https://language.cognitive.azure.com/home
+http://speech.microsoft.com
